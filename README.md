@@ -1,2 +1,2 @@
-# GITHUB-
+# GITHUB
 To know about GITHUB
